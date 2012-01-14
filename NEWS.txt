@@ -1,0 +1,19 @@
+               NEWS file for project ssh-installkeys
+
+* Wed Oct 12 2010 Eric S. Raymond <esr@snark.thyrsus.com> 1.5-1
+- Handle closed ports more gracefully.
+
+* Wed Jul 21 2004 Eric S. Raymond <esr@snark.thyrsus.com> 1.4-1
+- Added -P option.
+
+* Thu Mar 11 2004 Eric S. Raymond <esr@snark.thyrsus.com> 1.4-1
+- Added -h option, improved documentation.
+
+* Thu Jan  8 2004 Eric S. Raymond <esr@snark.thyrsus.com> 1.2-1
+- No longer hangs when host is missing from .ssh/known_hosts.
+
+* Tue Dec 30 2003 Eric S. Raymond <esr@snark.thyrsus.com> 1.1-1
+- Fixed typo in help option code.
+
+* Mon Dec 29 2003 Eric S. Raymond <esr@snark.thyrsus.com> 1.0-1
+- Initial release.
